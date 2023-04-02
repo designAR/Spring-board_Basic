@@ -1,0 +1,70 @@
+body {
+  background-color: #fafafa;
+}
+
+/* fieldset style */
+fieldset {
+  background-color: #fff;
+  border-radius: 3px;
+  border: 1px solid #ddd;
+  padding: 20px;
+  margin-top: 20px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* legend style */
+legend {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+/* p style */
+p {
+  margin-bottom: 10px;
+}
+
+/* button style */
+.button {
+  display: inline-block;
+  background-color: #3897f0;
+  color: #fff;
+  font-size: 14px;
+  font-weight: bold;
+  padding: 10px 20px;
+  border-radius: 5px;
+  text-decoration: none;
+}
+
+/* button hover style */
+.button:hover {
+  background-color: #1877f2;
+}
+table {
+  border-collapse: collapse;
+  width: 100%;
+  max-width: 800px;
+  margin: 0 auto;
+  margin-top: 20px;
+}
+
+thead {
+  background-color: #f5f5f5;
+}
+
+th {
+  text-align: left;
+  padding: 10px;
+  font-size: 16px;
+  font-weight: bold;
+  border-bottom: 2px solid #ddd;
+}
+
+td {
+  padding: 10px;
+  font-size: 14px;
+  border-bottom: 1px solid #ddd;
+}
+
+tr:hover {
+  background-color: #f5f5f5;
+}
